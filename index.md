@@ -77,7 +77,6 @@ samtools view -bS -F 4 COV1650.sam > COV1650.bam
 samtools sort -o COV1650_sorted.bam COV1650.bam
 
 samtools index COV1650_sorted.bam
-
 ```
 
 **b.** Trim amplification primers from the alignment using ivar. The ivar manual is  [here](https://andersen-lab.github.io/ivar/html/manualpage.html) if you're curious.
