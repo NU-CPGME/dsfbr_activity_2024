@@ -9,7 +9,7 @@
  
 ---
 
-###1. Set up environment on Quest  
+### 1. Set up environment on Quest  
 This command will load the Mamba package manager and create a Conda environment named `dsbr_covid` that will contain all the software needed for this exercise. By setting up Conda environments you can have multiple versions of software on the same computer and (mostly) avoid conflicts between software packages. For a nice introduction to Conda, see [this tutorial](https://towardsdatascience.com/a-guide-to-conda-environments-bc6180fc533) or [here](https://docs.conda.io/projects/conda/en/latest/index.html) for more detail. 
 
 **a.** Load the Mamba module on Quest. 
@@ -61,9 +61,9 @@ Download **FigTree** to your personal computer be able to view phylogenetic tree
 
 <a rel="license" href="https://github.com/rambaut/figtree/releases](https://github.com/rambaut/figtree/releases"><img src="img/FigTree.png" width="50"></a> 
 
--
+---
 
-###2. Generate consensus sequence of COV1650  
+### 2. Generate consensus sequence of COV1650  
 
 **a.** Align Illumina sequence reads to the reference genome sequence [MN908947.3](https://www.ncbi.nlm.nih.gov/nuccore/MN908947.3/). 
 
@@ -111,10 +111,10 @@ Consensus sequence | `COV1650.consensus.fa`
 Variant file | `COV1650.variants.tsv`
 
 
--
+---
 
 
-###3. Perform a phylogenetic analysis of the SAR-CoV-2 genomes
+### 3. Perform a phylogenetic analysis of the SAR-CoV-2 genomes
 
 **a.** First we'll simplify the header of the COV1650 consensus file using a simple perl one-liner.
 
