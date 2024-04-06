@@ -22,13 +22,13 @@ title: DSFBR Microbial Genomics Activity 2024
 email: e-ozer@northwestern.edu
 description: >- # this means to ignore newlines until "baseurl:"
   In-class activity guidance for DGP-485 Data Science for Biomedical Researchers
-baseurl: "" # the subpath of your site, e.g. /blog
+#baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nu-cpgme.github.io/dsfbr_activity_2024" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: egonozer
 github_username:  egonozer
 
 # Build settings
-theme: jekyll-theme-minima
+theme: minima
 plugins:
   - jekyll-feed
 
