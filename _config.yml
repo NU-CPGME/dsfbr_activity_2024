@@ -28,7 +28,7 @@ twitter_username: egonozer
 github_username:  egonozer
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minima
 plugins:
   - jekyll-feed
 
