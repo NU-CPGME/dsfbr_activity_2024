@@ -156,11 +156,11 @@ cat covid_all.tre
 ```
 Now you can view the tree file using FigTree. Some useful manipulations you can do is increase the font size using in the "Tip Labels" side bar. You may also want to view this as an unrooted tree by midpoint rooting the tree using the "Tree" menu (command-m on a Mac)
 
-<img src="img/tree.png" width="500"/>
+<img src="img/tree.png" width="100%"/>
 
 **f. Analyze the genome sequences in Nextclade.** 
 
-<img src="img/nextclade.png" width="500"/>
+<img src="img/nextclade.png" width="100%"/>
 
 1. Navigate to <a href="https://clades.nexstrain.org" target="_blank" rel="noopener noreferrer">https://clades.nexstrain.org</a> (will open in new tab). 
 
