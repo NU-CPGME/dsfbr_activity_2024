@@ -162,7 +162,7 @@ Now you can view the tree file using FigTree. Some useful manipulations you can 
 
 <img src="img/nextclade.png" width="100%"/>
 
-1. Navigate to <a href="https://clades.nexstrain.org" target="_blank" rel="noopener noreferrer">https://clades.nexstrain.org</a> (will open in new tab). 
+1. Navigate to <a href="https://clades.nextstrain.org" target="_blank" rel="noopener noreferrer">https://clades.nexstrain.org</a> (will open in new tab). 
 
 2. In the "Provide sequence data" box, select "Text".
 
